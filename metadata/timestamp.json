@@ -1,19 +1,19 @@
 {
-    "signatures": [
-        {
-            "keyid": "8a16bb5fa2a116a44ea6ed019f5e03e7a15ac0fa4c7d2c03b47f3f68928f3940",
-            "sig": "e16978c7b3ea703851f7d26d65c5426aa0b46eb2dc92809af7d3fadb325ff7997992c1df7547755d12ff344854f7aabfac4e0f33fe1032a7e12b8ad9bfd93a0c"
-        }
-    ],
-    "signed": {
-        "_type": "timestamp",
-        "expires": "2026-06-26T14:52:23.8919049Z",
-        "meta": {
-            "snapshot.json": {
-                "version": 10
-            }
-        },
-        "spec_version": "1.0.31",
-        "version": 10
-    }
+	"signatures": [
+		{
+			"keyid": "8a16bb5fa2a116a44ea6ed019f5e03e7a15ac0fa4c7d2c03b47f3f68928f3940",
+			"sig": "436a09567333ffa69f8f7d73223943001a6c0f57f9e726f9de4a2cd13fc69a3c4275b165c5cc5a2a5b7aa65edcfdf05f0cd64075af43bc8d3072f706749f0b0c"
+		}
+	],
+	"signed": {
+		"_type": "timestamp",
+		"expires": "2026-07-22T08:31:15.1889195Z",
+		"meta": {
+			"snapshot.json": {
+				"version": 11
+			}
+		},
+		"spec_version": "1.0.31",
+		"version": 11
+	}
 }
