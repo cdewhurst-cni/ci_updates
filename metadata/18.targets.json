@@ -1,0 +1,43 @@
+{
+    "signatures": [
+        {
+            "keyid": "006e2ae3fd264f0ec7baccca5e765f38bbe56fb890c19457756609c293f71b6b",
+            "sig": "d3abf2d75507dbc03da208b26b1883e8647ebdb95daab574afbce5b0867c1799ae57c27f773bceeca94cca11abbe83134795d03d9619ceb4c2ed2907ec619e07"
+        }
+    ],
+    "signed": {
+        "_type": "targets",
+        "expires": "2026-12-29T12:23:16.0732404Z",
+        "spec_version": "1.0.31",
+        "targets": {
+            "windows/amd64/canary/agent.zip": {
+                "custom": {
+                    "version": "2.0.0-216"
+                },
+                "hashes": {
+                    "sha256": "865d5683bf87e53f3a9fdda17b2f36ac4af033b837e848d445f76e5623edb64c"
+                },
+                "length": 20220455
+            },
+            "windows/amd64/canary/launcher_updater.zip": {
+                "custom": {
+                    "version": "2.0.0-216"
+                },
+                "hashes": {
+                    "sha256": "0ab26f68b1774bc2ae50dac5454d2ac4ff74e171fd529586d56f9b99a601d139"
+                },
+                "length": 6980463
+            },
+            "windows/amd64/canary/ui.zip": {
+                "custom": {
+                    "version": "2.0.0-216"
+                },
+                "hashes": {
+                    "sha256": "002ea132a16276abc849a61ea4cfeb6fac0db474c6df43ed2b8b37392680736a"
+                },
+                "length": 28098021
+            }
+        },
+        "version": 18
+    }
+}
